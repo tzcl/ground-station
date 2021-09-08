@@ -1,3 +1,3 @@
 # Ground Station
 
-An interface for managing a satellite ground station.
+Software for managing a satellite ground station.
