@@ -4,7 +4,7 @@ import serial
 import time
 import csv
 
-conn = serial.Serial('COM5', 9600)
+conn = serial.Serial('usbmodem401', 9600)
 time.sleep(2)  # wait for the serial connection to initialise
 
 # passes are stored in rows of timestamp,altitude,azimuth
